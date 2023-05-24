@@ -6,6 +6,6 @@
     },
   ],
   "releases": {
-    "0.0.14": "ylem-linux-v0.0.14",
+    "0.0.14": "ylem-linux-x86_64",
   }
 }
